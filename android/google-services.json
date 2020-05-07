@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "520279049432",
+    "firebase_url": "https://duple-8286a.firebaseio.com",
+    "project_id": "duple-8286a",
+    "storage_bucket": "duple-8286a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520279049432:android:968943f40364fb4a7783ad",
+        "android_client_info": {
+          "package_name": "com.example.dupledemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520279049432-eq0ftrl95cigschp3rt5agnk57q2c7ol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ1Wc721MxWhzyP6xP0CInd1f8abhOD7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "520279049432-eq0ftrl95cigschp3rt5agnk57q2c7ol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
